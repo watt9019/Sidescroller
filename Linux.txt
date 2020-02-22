@@ -1,0 +1,33 @@
+To Put On Resume'
+Microsoft Teams
+Oracle VM VirtualBox
+Linux
+Unity
+
+Linux Commands
+
+whoami - shows who the user is 
+
+passwd - changes the password 
+
+clear - clears the screen
+
+pwd - shows your path
+
+ls / - shows directories 
+
+Obtaining Linux
+Get Oracle VM VirtualBox
+Click on new
+Name: Ubuntu
+
+NOTE: CentOS is a great Linux distro, but for beginners, start with Ubuntu. The default desktop that Ubuntu comes with is called Gnome, and it is user-friendly. 
+Mint with Cinnamon mimics Windows pretty well. 
+Kde is another distro. 
+
+Directory Structure
+Almost everything in Linux is a file 
+There is only one root directory in Linux
+
+
+
